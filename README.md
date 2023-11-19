@@ -1,6 +1,3 @@
-# skillmatrix
-PHP Website where you can add your skills and create a pdf quickly
-
 # Skillmatrix Web Application
 
 The Skillmatrix web application allows users to track their skills and their proficiency level, saving the data in a PDF file.
