@@ -64,7 +64,7 @@
                 <!-- Skill Row Template -->
                 <div class="form-row align-items-center mb-3 skillRow" data-skill-index="0">
                     <div class="col">
-                        <input type="text" class="form-control skillInput" placeholder="Enter skill">
+                        <input type="text" class="form-control skillInput" placeholder="Kompetenz eingeben">
                     </div>
                     <div class="col">
                         <div class="btn-group" data-toggle="buttons">
@@ -78,8 +78,8 @@
                 </div>
             </div>
             <button type="button" id="addSkillBtn" class="btn btn-info">+</button>
-            <button type="button" id="saveBtn" class="btn btn-success">Save</button>
-            <button type="button" id="createPdfBtn" class="btn btn-danger">Create PDF</button>
+            <button type="button" id="saveBtn" class="btn btn-success">Speichern</button>
+            <button type="button" id="createPdfBtn" class="btn btn-danger">PDF erstellen</button>
             <button type="button" id="toggleDarkMode" class="btn btn-dark">Dark/Light</button>
         </form>
 
