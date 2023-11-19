@@ -87,7 +87,7 @@
     </div>
 
     <div id="notification" class="notification">
-        Kompetenzen erfolgreich gespeichert!
+        Saved successfully skills!
     </div>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
