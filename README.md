@@ -2,6 +2,8 @@
 
 The Skillmatrix web application allows users to track their skills and their proficiency level, saving the data in a PDF file.
 
+![Light Mode](assets/skillmatrix_light.png)
+
 ## Features
 
 - **Input Skills:** Users can input skills and choose the proficiency level on a scale from 1 to 5.
@@ -24,6 +26,11 @@ The Skillmatrix web application allows users to track their skills and their pro
 
 - You can customize the available skills in the JavaScript file (`script` section in `index.php`).
 - Modify the appearance or functionalities as needed.
+
+## Screenshot
+
+### Dark Mode
+![Dark Mode](assets/skillmatrix_dark.png)
 
 ## License
 
