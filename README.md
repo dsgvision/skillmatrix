@@ -63,8 +63,8 @@ Die Skillmatrix Webanwendung ermöglicht es Benutzern, ihre Kompetenzen und dere
 
 ## Verwendung
 
-1. Klonen Sie das Repository: `git clone https://github.com/dsgvision/skillmatrix.git`
-2. Öffnen Sie die `index.php`-Datei in einem Webbrowser.
+1. Klone das Repository: `git clone https://github.com/dsgvision/skillmatrix.git`
+2. Öffnen die `index.php`-Datei in einem Webbrowser (Voraussetzung: Webserver mit PHP).
 
 ## Anpassungen
 
